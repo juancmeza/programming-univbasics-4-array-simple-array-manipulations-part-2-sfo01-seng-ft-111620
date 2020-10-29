@@ -13,6 +13,6 @@ end
 def using_flatten(array)
   puts array 
   array.flatten()
-  puts array
+  p array
 end 
 
