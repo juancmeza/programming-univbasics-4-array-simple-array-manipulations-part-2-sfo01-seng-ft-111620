@@ -3,7 +3,6 @@ def using_concat(arr1, arr2)
 end 
 
 def using_insert(array, element)
-  el = element.to_i 
-  array.insert(3, el)
+  array.insert(3, element)
 end 
 
