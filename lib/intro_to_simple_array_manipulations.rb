@@ -11,8 +11,6 @@ def using_uniq(array)
 end 
 
 def using_flatten(array)
-  puts array 
   array.flatten()
-  p array
 end 
 
