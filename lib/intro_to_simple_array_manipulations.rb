@@ -4,6 +4,6 @@ end
 
 def using_insert(array, element)
   el = element.to_i 
-  array.insert(4,el)
+  array.insert(4, el)
 end 
 
